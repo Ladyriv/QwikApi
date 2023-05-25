@@ -9,6 +9,7 @@
 
 .anchor span:not(.spacer) {
   display: block;
+  text-align: center;
 }
 
 .spacer {
